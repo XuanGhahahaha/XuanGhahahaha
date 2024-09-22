@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am a third-year PhD student in the Graphics&Geometric Computing Laboratory (GCL) at University of Science and Technology of China (USTC) advised by Prof. Juyong Zhang. 
+I am a fourth-year PhD student in the Graphics&Geometric Computing Laboratory (GCL) at University of Science and Technology of China (USTC) advised by Prof. Juyong Zhang. 
 
 I obtained my bachelor degree in Mathematics in 2021 from USTC. 
 
